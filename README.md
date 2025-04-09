@@ -16,7 +16,7 @@ An innovative AR educational app for kids featuring 28 main sections—including
 
 **Tech Stack:** Unity 3D | PHP | MySQL  
 **Screenshot:**  
-![AR Kid's Kit 4D](https://your-link-to-screenshot.com/arkidskit4d.png)
+![AR Kid's Kit 4D](https://github.com/islammohy/public_screenshot_image/blob/main/apps_images/app1.png)
 
 ---
 
@@ -26,7 +26,7 @@ A specialized app designed to teach correct Quranic reading using the renowned N
 
 **Tech Stack:** Flutter | Firebase (Auth & DB)  
 **Screenshot:**  
-![Noor Al Bayan](https://your-link-to-screenshot.com/nooralbayan.png)
+![Noor Al Bayan](https://github.com/islammohy/public_screenshot_image/blob/main/apps_images/app2.png)
 
 ---
 
@@ -36,7 +36,7 @@ A fully integrated eCommerce website built on WordPress and WooCommerce for sell
 
 **Tech Stack:** WordPress | WooCommerce | PHP  
 **Screenshot:**  
-![IGY-Apps Store](https://your-link-to-screenshot.com/igyappstore.png)
+![IGY-Apps Store](https://github.com/islammohy/public_screenshot_image/blob/main/websites_images/website1.png)
 
 ---
 
@@ -46,7 +46,7 @@ An interactive educational platform (in English) offering courses for children i
 
 **Tech Stack:** WordPress  
 **Screenshot:**  
-![Teach-Me](https://your-link-to-screenshot.com/teachme.png)
+![Teach-Me](https://github.com/islammohy/public_screenshot_image/blob/main/websites_images/website2.png)
 
 ---
 
@@ -56,7 +56,7 @@ A comprehensive Arabic educational website tailored for young learners. It cover
 
 **Tech Stack:** WordPress  
 **Screenshot:**  
-![Alamni](https://your-link-to-screenshot.com/alamni.png)
+![Alamni](https://github.com/islammohy/public_screenshot_image/blob/main/websites_images/website3.png)
 
 ---
 
@@ -66,7 +66,7 @@ A smart Learning Management System (LMS) that leverages AI to analyze student pe
 
 **Tech Stack:** (Custom LMS / WordPress + integrations) | AI technologies | PHP, JavaScript  
 **Screenshot:**  
-![Edu AI LMS](https://your-link-to-screenshot.com/eduai-lms.png)
+![Edu AI LMS](https://github.com/islammohy/public_screenshot_image/blob/main/websites_images/website4.png)
 
 ---
 
@@ -76,7 +76,7 @@ An innovative mobile app that bridges traditional printed textbooks with digital
 
 **Tech Stack:** Flutter | QR Code Scanning | AI-Powered Chat (Firebase integration)  
 **Screenshot:**  
-![Edu AI Reader](https://your-link-to-screenshot.com/eduai-reader.png)
+![Edu AI Reader](https://github.com/islammohy/public_screenshot_image/blob/main/apps_images/app3.png)
 
 ---
 
